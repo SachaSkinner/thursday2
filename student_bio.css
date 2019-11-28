@@ -30,7 +30,8 @@ a {
 }
 #main-bio,
 #bio-image,
-#contact-info {
+#contact-info
+ {
     float: left;
 }
 #main-bio {
